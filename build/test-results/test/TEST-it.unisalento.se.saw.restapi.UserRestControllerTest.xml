@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unisalento.se.saw.restapi.UserRestControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-25T14:01:32" hostname="niko-PC" time="0.152">
+  <properties/>
+  <testcase name="findUserByIdTest" classname="it.unisalento.se.saw.restapi.UserRestControllerTest" time="0.152"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
